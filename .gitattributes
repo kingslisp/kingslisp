@@ -1,1 +1,4 @@
 *.king
+
+# to make it more smooth xD 
+*.h linguist-language=objc
