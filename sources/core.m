@@ -26,4 +26,12 @@
 #import <Foundation/Foundation.h>
 #import <objc/runtime.h>
 
+NSObject * wrap_tf(BOOL val) {
+  return val ? [KingslispTrue alloc] : [KingslispFalse alloc];
+}
+
 @implementation Core
+  + (NSDictionary *)ns {
+  /* code here */
+  }
+@end
