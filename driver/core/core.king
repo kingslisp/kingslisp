@@ -1,1 +1,2 @@
 ;; kingslisp selfhost implementation
+(:import-file "../environment.king")
