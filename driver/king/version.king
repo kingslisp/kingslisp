@@ -1,0 +1,2 @@
+;; This file is part of the king package manager
+(define version("0.1.0-dev"))
