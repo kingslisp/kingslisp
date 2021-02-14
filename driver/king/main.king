@@ -1,0 +1,6 @@
+;; This file is part of the King package manager
+(:import-file "./version.king")
+(:import-file "./update.king")
+
+(define-function main()
+  (define args())
