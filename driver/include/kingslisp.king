@@ -1,0 +1,13 @@
+;; @file kingslisp.king
+;; @author timo-cmd2 <sartimo10@gmail.com>
+;; @copyright 2020-2021 CC1.0 Timo Sarkar
+;;
+;; This file is part of the Kingslisp project
+;; 
+;; Main include client for API
+
+(define KINGSLISP_VERSION_MAJOR(1))
+(define KINGSLISP_VERSION_MINOR(0))
+(define KINGSLISP_VERSION_PATCH(1))
+(define KINGSLISP_VERSION_EXTRA("-dev"))
+(define KINGSLISP_VERSION_FULL("1.0.1-dev"))
